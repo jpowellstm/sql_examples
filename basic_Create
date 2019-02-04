@@ -3,3 +3,11 @@ CREATE TABLE test (
 );
 INSERT INTO test (id) VALUES (1);
 INSERT INTO test (id) VALUES (2);
+
+CREATE TABLE test (
+  id INT
+  name VARCHAR(20)
+);
+INSERT INTO test VALUES (1, 'Igor');
+INSERT INTO test VALUES (2, 'Josh');
+
