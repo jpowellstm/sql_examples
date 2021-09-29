@@ -1,13 +1,11 @@
-CREATE TABLE test (
-  id INT
+CREATE TABLE Persons (
+    PersonID int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
 );
-INSERT INTO test (id) VALUES (1);
-INSERT INTO test (id) VALUES (2);
 
-CREATE TABLE test (
-  id INT
-  name VARCHAR(20)
-);
-INSERT INTO test VALUES (1, 'Igor');
-INSERT INTO test VALUES (2, 'Josh');
+INSERT INTO Persons
+VALUES (1, 'Powell', 'Sir', 'STM', 'NS');
 
