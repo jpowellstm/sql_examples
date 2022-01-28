@@ -7,5 +7,7 @@ CREATE TABLE Persons (
 );
 
 INSERT INTO Persons
-VALUES (1, 'Powell', 'Sir', 'STM', 'NS');
+VALUES 
+    (1, 'Powell', 'Sir', 'STM', 'NS'),
+    (2, 'Gilroy', 'KAL', 'Cloud 9', 'Dreamland');
 
