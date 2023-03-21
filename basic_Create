@@ -10,4 +10,7 @@ INSERT INTO Persons
 VALUES 
     (1, 'Powell', 'Sir', 'STM', 'NS'),
     (2, 'Gilroy', 'KAL', 'Cloud 9', 'Dreamland');
+    (3, 'Stout', 'Ethan', 'Somewhere', 'Nowhere'),
+    (4, 'Mc', 'Jake', 'Here', 'There'),
+    (5, 'Finster', 'Finn', 'Rivendel', 'Middle Earth');
 
