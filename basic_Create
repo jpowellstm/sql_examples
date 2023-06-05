@@ -8,9 +8,9 @@ CREATE TABLE Persons (
 
 INSERT INTO Persons
 VALUES 
-    (1, 'Powell', 'Sir', 'STM', 'NS'),
-    (2, 'Gilroy', 'KAL', 'Cloud 9', 'Dreamland');
-    (3, 'Stout', 'Ethan', 'Somewhere', 'Nowhere'),
-    (4, 'Mc', 'Jake', 'Here', 'There'),
-    (5, 'Finster', 'Finn', 'Rivendel', 'Middle Earth');
+    (1, 'Powell', 'Sir', 'STM', 'NS', 25),
+    (2, 'Gilroy', 'KAL', 'Cloud 9', 'Dreamland', 17);
+    (3, 'Stout', 'Ethan', 'Somewhere', 'Nowhere', 18),
+    (4, 'Mc', 'Jake', 'Here', 'There', 17),
+    (5, 'Finster', 'Finn', 'Rivendel', 'Middle Earth', 18);
 
